@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**chelseanchoko/chelseanchoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my GitHub!
 
-Here are some ideas to get you started:
+### About Me
+- 🎓 MSc Data Science student
+- 📊 Interested in building data science models
+- 🐍 Learning and working with Python
+- 📈 Interested in Business Intelligence and Machine Learning
+- 🌍 Interested in solving real-world problems using data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- Python
+- SQL
+- Excel
+- Power BI
+- Pandas
+- Scikit-learn
+- Machine Learning
+
+### Current Focus
+Building practical data science projects and developing my data analytics portfolio.
+
+### Projects
+Coming soon!
+
+### Let's Connect
+LinkedIn: https://www.linkedin.com/in/chelsea-nchoko-b97312131?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
